@@ -40,17 +40,17 @@ To run Jarpey:
 2. **Setup:**
    - Clone or download this repository:
      ```bash
-     git clone <repository-url>
+     git clone https://github.com/xFUTAROx/jarpe.git
      ```
    - Navigate to the directory containing the script:
      ```bash
-     cd <directory-name>
+     cd jarpe.git
      ```
 
 3. **Run the Application:**
    - Execute the main script:
      ```bash
-     python main.py
+     jarpey.py
      ```
 
 ## Usage
